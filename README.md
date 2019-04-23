@@ -1,2 +1,2 @@
 # paginaweb
-Desarrollo de la página web del colegio Anglo
+Web site development for Anglo College
