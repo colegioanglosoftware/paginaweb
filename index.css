@@ -160,14 +160,8 @@
     color:  whitesmoke !important;
 }
 
-.btn-primary{
-    background-color: #39528B !important;
-    border-color: #f5f5f5 !important;
-    color:  whitesmoke !important;
-}
-
 #ibcontainer img{
-    max-width: 20%;
+    max-width: 50%;
     align-content: center;
 }
 
