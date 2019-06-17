@@ -104,7 +104,7 @@
     align-items: center;
 }
 .flexbox img{
-    max-width: 1    0%;
+    max-width: 10%;
 }
 
 
@@ -161,7 +161,7 @@
 }
 
 #ibcontainer img{
-    max-width: 50%;
+    max-width: 65%;
     align-content: center;
 }
 
