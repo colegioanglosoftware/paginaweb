@@ -228,15 +228,3 @@ hr{
     width: 50%;
     size: 100%;
 }
-
-.butn {
-    color: #ffffff;
-    font-size: 40px;
-    background: #2BA94B;
-    padding: 10px 20px 10px 20px;
-    text-decoration: none;
-  }
-  
-  .butn:hover {
-    text-decoration: none;
-  }
